@@ -3,11 +3,10 @@ import random
 import re
 from datetime import datetime
 
-XML_PATH = "template_nfse.xml"  # Template fixo na pasta
+XML_PATH = "template_nfse.xml"  # Template
 OUTPUT_DIR = "xmls"
-QTD_XMLS = 3 # Qtd. de notas a gerar
+QTD_XMLS = 3 # notas a gerar
 
-# Prestador fixo (se quiser aleatório posso mudar!)
 CNPJ_PRESTADOR = "12345678000199"
 IM_PRESTADOR = "90899"
 NOME_PRESTADOR = "EMPRESA AUTOMÁTICA LTDA"
@@ -135,4 +134,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
