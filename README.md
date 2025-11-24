@@ -1,4 +1,4 @@
-# 🚀 Automação de Geração de NFSe com Python (POC)
+# Automação de Geração de NFSe com Python (POC)
 
 Este projeto é uma **prova de conceito (POC)** desenvolvida para automatizar a geração de arquivos **XML de NFSe** utilizando **Python**.
 
@@ -27,7 +27,7 @@ Antes da geração dos XMLs, foi realizado o **mapeamento das tags (de–para)**
 
 ---
 
-# ▶️ Como executar
+## ▶️ Como executar
 
 Clonar o repositório
 - git clone https://github.com/print-stefani/script-nfse-python.git
