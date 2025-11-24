@@ -61,7 +61,8 @@ Após a automação:
 
 ---
 
->⚠️ Avisos importantes
+>⚠️ Avisos importantes:
+
 >❗ Este projeto é apenas uma prova de conceito (POC).
 >❗ Os dados utilizados são simulados e não representam documentos fiscais válidos.
 >❗ Não utilize este código em ambiente de produção sem adaptações técnicas e validações fiscais.
