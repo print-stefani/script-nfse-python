@@ -36,3 +36,41 @@ Clonar o repositório
 Executar o script
 - python gerar_nfse.py
 
+Os arquivos XML serão gerados automaticamente na pasta /xmls.
+
+---
+
+🔍 Principais adaptações técnicas
+
+✔ Template XML com variáveis ${CHAVE}
+✔ Preenchimento automático com dados simulados
+✔ Controle de quantidade de notas geradas
+✔ Estrutura preparada para escalabilidade (emissão em lote)
+
+📌 Exemplo de placeholder substituído
+<ID_NFSE>${ID_NFSE}</ID_NFSE>
+<NOME_PRESTADOR>${NOME_PRESTADOR}</NOME_PRESTADOR>
+<VALOR_SERVICO>${VALOR_SERVICO}</VALOR_SERVICO>
+
+
+Após a automação:
+
+<ID_NFSE>NFS230440001...</ID_NFSE>
+<NOME_PRESTADOR>EMPRESA AUTOMÁTICA LTDA</NOME_PRESTADOR>
+<VALOR_SERVICO>12500.50</VALOR_SERVICO>
+
+>⚠️ Avisos importantes
+ >❗ Este projeto é apenas uma prova de conceito (POC).
+ >❗ Os dados utilizados são simulados e não representam documentos fiscais válidos.
+ >❗ Não utilize este código em ambiente de produção sem adaptações técnicas e validações fiscais.
+
+📣 Contato
+Se quiser trocar experiências sobre automação fiscal, integração com sistemas ou desenvolvimento em Python:
+
+stefanibeatrizcv@gmail.com
+
+---
+
+📌 Licença
+
+Este projeto está licenciado sob a MIT License – fique à vontade para utilizar e evoluir o código para estudos.
