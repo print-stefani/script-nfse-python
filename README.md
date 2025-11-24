@@ -29,10 +29,10 @@ Antes da geração dos XMLs, foi realizado o **mapeamento das tags (de–para)**
 
 # ▶️ Como executar
 
-- Clonar o repositório
-git clone https://github.com/print-stefani/script-nfse-python.git
-cd repositorio
+Clonar o repositório
+- git clone https://github.com/print-stefani/script-nfse-python.git
+- cd repositorio
 
-- Executar o script
-python gerar_nfse.py
+Executar o script
+- python gerar_nfse.py
 
