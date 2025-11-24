@@ -59,7 +59,7 @@ Após a automação:
 <NOME_PRESTADOR>EMPRESA AUTOMÁTICA LTDA</NOME_PRESTADOR>
 <VALOR_SERVICO>12500.50</VALOR_SERVICO>
 
----
+
 
 >⚠️ Avisos importantes:
 >❗ Este projeto é apenas uma prova de conceito (POC).
