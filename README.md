@@ -59,10 +59,12 @@ Após a automação:
 <NOME_PRESTADOR>EMPRESA AUTOMÁTICA LTDA</NOME_PRESTADOR>
 <VALOR_SERVICO>12500.50</VALOR_SERVICO>
 
+---
+
 >⚠️ Avisos importantes
- -❗ Este projeto é apenas uma prova de conceito (POC).
- -❗ Os dados utilizados são simulados e não representam documentos fiscais válidos.
- -❗ Não utilize este código em ambiente de produção sem adaptações técnicas e validações fiscais.
+ - ❗ Este projeto é apenas uma prova de conceito (POC).
+ - ❗ Os dados utilizados são simulados e não representam documentos fiscais válidos.
+ - ❗ Não utilize este código em ambiente de produção sem adaptações técnicas e validações fiscais.
 
 📣 Contato
 Se quiser trocar experiências sobre automação fiscal, integração com sistemas ou desenvolvimento em Python:
