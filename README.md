@@ -25,14 +25,14 @@ Antes da geração dos XMLs, foi realizado o **mapeamento das tags (de–para)**
 > ⚠️ A integração com o sistema fiscal/ERP não faz parte deste repositório.  
 > O foco aqui é **apenas a automação da geração dos XMLs**.
 
+---
 
+# ▶️ Como executar
 
-## ▶️ Como executar
-
-# Clonar o repositório
+## Clonar o repositório
 git clone https://github.com/usuario/repositorio.git
 cd repositorio
 
-# Executar o script
+## Executar o script
 python gerar_nfse.py
 
